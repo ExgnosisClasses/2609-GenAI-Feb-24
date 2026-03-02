@@ -5,3 +5,7 @@
 This repository will be avaiable for at least 30 days intil March 26, 2025
 
 [Lab Repository](https://github.com/ExgnosisClasses/2609-GenAi-Labs)
+
+### Updates
+- email: rod@exgnosis.ca
+- Curated resources list in progress, will be uploaded March 3
